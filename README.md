@@ -18,3 +18,9 @@ Some sources:
 - https://raw.githubusercontent.com/ViktorJp/Skynet/main/filter.list
 - https://raw.githubusercontent.com/jumpsmm7/GeneratedAdblock/master/filter.list
 - https://raw.githubusercontent.com/Adamm00/IPSet_ASUS/refs/heads/master/filter.list
+
+To update:
+- SSH into the router
+- run `sh /jffs/scripts/firewall`
+- `[3]  --> Malware Blacklist`
+- `[2]  --> Change Filter List`
